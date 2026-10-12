@@ -1,3 +1,0 @@
-metadata/particles/curses
-spells/curse
-claymage
